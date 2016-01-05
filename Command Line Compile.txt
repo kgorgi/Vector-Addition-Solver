@@ -1,0 +1,2 @@
+For Vector Addition: 
+g++ VectorAddition.cpp -o "Vector Addition Solver.exe" -static-libgcc -static-libstdc++
