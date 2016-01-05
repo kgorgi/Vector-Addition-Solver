@@ -3,6 +3,7 @@
 The Vector Addition Solver, built using Notepad++ and the MinGW C++ Compiler, is is a Windows based command line program. The program adds multiple two dimensional vectors together with the user specifying how many vectors to add. This is because the amount of vectors is unknown at compilation. Please note the for the angle of a vector, the polar coordinate system is used.
 
 To find out more information about vector addition please visit: 
+
 https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/vectors/v/adding-vectors
 
 ##Motivation:
