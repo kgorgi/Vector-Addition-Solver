@@ -1,5 +1,5 @@
 //***********************************************************
-//* Vector.cpp Created By Kian Gorgichuk			        *
+//* Vector.cpp Created By Kian Gorgichuk	  	    *
 //* Copyright (c) 2014 Kian Gorgichuk. All rights reserved. *
 //***********************************************************
 
